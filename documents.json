@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Great White Shark",
+    "category": "Ocean Animals",
+    "keywords": ["shark", "great white", "apex predator", "jaws", "cartilaginous fish", "ocean predator", "seals"],
+    "description": "The great white shark is a large predatory shark found in coastal surface waters of all major oceans. It can grow up to six metres long and is famous for its powerful jaws lined with rows of serrated teeth. Great whites are apex predators that hunt seals, fish and other marine animals. They detect prey using an excellent sense of smell and special organs that sense electrical fields. Despite their fearsome reputation they are curious animals and are listed as vulnerable by conservationists."
+  },
+  {
+    "id": 2,
+    "title": "Blue Whale",
+    "category": "Ocean Animals",
+    "keywords": ["largest animal", "marine mammal", "ocean", "whale", "krill", "baleen", "low frequency sound"],
+    "description": "The blue whale is the largest animal known to have ever lived. It is a marine mammal that feeds mainly on tiny shrimp-like animals called krill. Blue whales are found in oceans around the world and communicate using low-frequency sounds that travel enormous distances underwater. An adult can reach nearly thirty metres in length and weigh as much as two hundred tonnes. Its heart alone is the size of a small car, and its blow can rise several metres above the surface."
+  },
+  {
+    "id": 3,
+    "title": "Bottlenose Dolphin",
+    "category": "Ocean Animals",
+    "keywords": ["dolphin", "echolocation", "intelligent", "marine mammal", "pods", "clicks and whistles", "social"],
+    "description": "The bottlenose dolphin is a highly intelligent marine mammal found in warm and temperate seas worldwide. It lives in small social groups called pods and communicates using clicks, whistles and body language. Dolphins use echolocation, producing sound waves that bounce off objects and return as echoes, which helps them locate fish even in murky water. They can swim faster than thirty kilometres per hour and often leap clear of the water. Dolphins are known to cooperate while hunting and to help injured members of their pod."
+  },
+  {
+    "id": 4,
+    "title": "Green Sea Turtle",
+    "category": "Ocean Animals",
+    "keywords": ["sea turtle", "reptile", "seagrass", "migration", "nesting beach", "shell", "endangered"],
+    "description": "The green sea turtle is a large sea reptile named for the green fat under its shell rather than the colour of its skin. Adults graze on seagrass and algae in shallow coastal waters, which keeps these meadows healthy. Females return to the beach where they hatched in order to lay their eggs. Green sea turtles migrate across enormous distances and can live for more than seventy years. All populations are threatened by plastic pollution, fishing nets and the loss of nesting beaches."
+  },
+  {
+    "id": 5,
+    "title": "Manta Ray",
+    "category": "Ocean Animals",
+    "keywords": ["manta ray", "filter feeder", "plankton", "wing-like fins", "harmless", "tropical ocean", "cleaning station"],
+    "description": "The manta ray is the largest type of ray, with wing-like pectoral fins that can span seven metres from tip to tip. It glides through the warm surface waters of tropical oceans, filtering plankton and small fish through its wide mouth. Despite its size the manta ray is harmless to humans and has no stinger. Mantas are among the most intelligent fish and have the largest brain-to-body ratio of any fish. They frequently visit cleaning stations where small fish remove parasites from their skin."
+  },
+  {
+    "id": 6,
+    "title": "Sea Horse",
+    "category": "Ocean Animals",
+    "keywords": ["seahorse", "male pregnancy", "seagrass", "bony plates", "curled tail", "small fish", "camouflage"],
+    "description": "The seahorse is a small fish with a horse-like head, a curled tail and a body covered in bony plates. Instead of swimming freely it anchors itself to seagrass, coral and mangrove roots using its tail. Seahorses are unusual because the male carries the eggs in a pouch and gives birth to the young. They feed on tiny crustaceans by sucking them up through a tube-shaped snout. More than forty species of seahorse are recognised, and many are expert at camouflage."
+  },
+  {
+    "id": 7,
+    "title": "Narwhal",
+    "category": "Ocean Animals",
+    "keywords": ["narwhal", "tusk", "arctic whale", "sea unicorn", "ice", "marine mammal", "pod"],
+    "description": "The narwhal is a medium-sized whale that lives in the icy waters of the Arctic. It is famous for the long spiral tusk that grows from the upper jaw of males; the tusk is actually an elongated tooth that can reach three metres. Narwhals travel in pods and feed on fish, squid and shrimp beneath the sea ice. They communicate using clicks and whistles and are often called the unicorns of the sea. Climate change and the loss of sea ice are major threats to their survival."
+  },
+  {
+    "id": 8,
+    "title": "Ocean Sunfish",
+    "category": "Ocean Animals",
+    "keywords": ["sunfish", "mola mola", "heaviest bony fish", "jellyfish", "basking", "round body", "parasites"],
+    "description": "The ocean sunfish, also called the mola mola, is the heaviest bony fish in the world and can weigh more than two tonnes. It has a flattened, almost circular body with no true tail fin. Sunfish live in warm and temperate oceans and feed mainly on jellyfish, which are low in nutrition, so they must eat almost constantly. They often bask at the surface lying on their side, which warms them up and lets seabirds remove parasites from their skin."
+  },
+  {
+    "id": 9,
+    "title": "Anglerfish",
+    "category": "Deep Sea Life",
+    "keywords": ["anglerfish", "bioluminescence", "glowing lure", "deep sea fish", "esca", "sharp teeth", "darkness"],
+    "description": "The anglerfish is a deep-sea fish known for the glowing lure that hangs in front of its mouth. This light is produced by bacteria living in a small bulb called the esca and is used to attract prey in pitch-black water. Many anglerfish have enormous mouths and sharp inward-pointing teeth that trap anything that comes close. Females are much larger than males, and in some species the male fuses permanently to the female. They live at depths of over one thousand metres."
+  },
+  {
+    "id": 10,
+    "title": "Vampire Squid",
+    "category": "Deep Sea Life",
+    "keywords": ["vampire squid", "deep sea", "marine snow", "cloak", "low oxygen", "glowing mucus", "large eyes"],
+    "description": "The vampire squid is a small, dark-red cephalopod that lives in the oxygen-poor middle depths of the ocean. Despite its name it does not drink blood; instead it feeds on drifting organic material known as marine snow. When threatened it turns its webbed arms inside out over its body like a cloak and can release a cloud of glowing mucus. It has the largest eyes relative to body size of any animal and lives in the twilight and midnight zones."
+  },
+  {
+    "id": 11,
+    "title": "Dumbo Octopus",
+    "category": "Deep Sea Life",
+    "keywords": ["dumbo octopus", "deepest octopus", "ear fins", "no ink sac", "seafloor", "deep sea", "hover"],
+    "description": "The dumbo octopus is the deepest-living octopus known, found at depths of three thousand metres or more. It is named after the two ear-like fins on its head that flap like Dumbo's ears and allow it to hover above the seafloor. Unlike other octopuses it has no ink sac, because ink is useless in total darkness. It is small, usually under thirty centimetres long, and swallows its prey whole. Its arms are joined by a web that it uses to drift through the water."
+  },
+  {
+    "id": 12,
+    "title": "Goblin Shark",
+    "category": "Deep Sea Life",
+    "keywords": ["goblin shark", "living fossil", "long snout", "protruding jaws", "rare shark", "deep sea", "pink skin"],
+    "description": "The goblin shark is a rare deep-sea shark sometimes called a living fossil because it is the only surviving member of an ancient family. It has a long flat snout and a jaw that can shoot forward out of its mouth to snap up prey. Its skin looks pinkish because blood vessels show through translucent skin. It lives at depths below two hundred metres and feeds on fish, squid and crustaceans. Very little is known about its behaviour, its population or how it reproduces."
+  },
+  {
+    "id": 13,
+    "title": "Barreleye Fish",
+    "category": "Deep Sea Life",
+    "keywords": ["barreleye", "transparent head", "tubular eyes", "deep sea fish", "twilight zone", "see through skull", "jellyfish"],
+    "description": "The barreleye fish is a small deep-sea fish famous for its transparent head. Its large green tube-shaped eyes point upward and can be seen through the clear dome of its skull. This lets it look for food silhouetted against the faint light coming from above. The eyes can also rotate forward when the fish is hunting. It lives in the twilight zone, often hundreds of metres down, and drifts almost motionless while searching for jellyfish and small drifting animals."
+  },
+  {
+    "id": 14,
+    "title": "Giant Isopod",
+    "category": "Deep Sea Life",
+    "keywords": ["giant isopod", "crustacean", "scavenger", "armoured shell", "whale fall", "deep seafloor", "woodlouse"],
+    "description": "The giant isopod is a large crustacean related to the woodlice found in gardens, but it lives on the dark floor of the deep ocean. It can grow up to fifty centimetres long and has a hard armoured shell that it can roll into a ball for protection. Giant isopods are scavengers that feed on dead whales, fish and other animals that sink from above. They can survive extremely long periods without food and use large sensitive antennae to find carcasses in total darkness."
+  },
+  {
+    "id": 15,
+    "title": "Yeti Crab",
+    "category": "Deep Sea Life",
+    "keywords": ["yeti crab", "hydrothermal vents", "hairy claws", "hot vents", "chemosynthesis", "bacteria farming", "deep sea"],
+    "description": "The yeti crab is a deep-sea crustacean named for the thick white hair covering its claws and body. It was first discovered near hydrothermal vents in the Pacific Ocean. The hairs are covered in bacteria, which the crab may feed on or use to remove poisonous minerals from the vent water. Yeti crabs live in complete darkness near superheated water rich in chemicals, and instead of hunting they farm bacteria on their own bodies."
+  },
+  {
+    "id": 16,
+    "title": "Deep Sea Dragonfish",
+    "category": "Deep Sea Life",
+    "keywords": ["dragonfish", "bioluminescence", "photophores", "glowing barbel", "needle teeth", "produces light", "deep sea"],
+    "description": "The deep sea dragonfish is a slender black fish that lives in the dark middle depths of the ocean. It has a long barbel hanging from its chin that glows with light produced by special organs called photophores, which it uses like a fishing rod to attract prey. It also has large needle-like teeth that help it hold on to food. Dragonfish survive in very low light and high pressure, and some species can produce red light that most deep-sea animals cannot see."
+  },
+  {
+    "id": 17,
+    "title": "Coral Reefs",
+    "category": "Ocean Habitats",
+    "keywords": ["coral reef", "polyps", "limestone", "biodiversity", "symbiosis", "shallow warm water", "rainforest of the sea"],
+    "description": "Coral reefs are underwater structures built by tiny animals called polyps that secrete hard limestone skeletons. Reefs grow in warm, shallow, clear water where microscopic algae living inside the corals make food using sunlight. This partnership supports about a quarter of all marine species, which is why reefs are called the rainforests of the sea. They protect coastlines from waves and provide food and income for millions of people. Warming seas, pollution and destructive fishing threaten them."
+  },
+  {
+    "id": 18,
+    "title": "Kelp Forests",
+    "category": "Ocean Habitats",
+    "keywords": ["kelp forest", "underwater forests", "giant kelp", "brown algae", "holdfast", "sea urchin", "cold water"],
+    "description": "Kelp forests are dense underwater forests of giant brown algae that grow along cool rocky coastlines. Giant kelp can grow up to half a metre a day and reach thirty metres tall, forming a thick canopy at the surface. The forest is anchored to the seabed by root-like structures called holdfasts. Kelp forests shelter fish, sea otters, crabs and sea urchins. If sea urchin predators are removed, the urchins can eat the kelp and turn the forest into an empty barren."
+  },
+  {
+    "id": 19,
+    "title": "Seagrass Meadows",
+    "category": "Ocean Habitats",
+    "keywords": ["seagrass", "meadow", "flowering plants", "nursery", "shallow coast", "dugong", "carbon storage"],
+    "description": "Seagrass meadows are underwater gardens of flowering plants that grow in shallow sandy coastal water. Unlike seaweed, seagrasses are true plants with roots, flowers and seeds. Dense meadows provide food and shelter for fish, seahorses, turtles and dugongs, and act as nurseries for young animals. They also trap sediment, keep the water clear and store carbon in the seabed. Pollution, boat anchors and coastal development are the biggest threats to these meadows."
+  },
+  {
+    "id": 20,
+    "title": "Mangrove Forests",
+    "category": "Ocean Habitats",
+    "keywords": ["mangrove", "coastal forests", "salt tolerant trees", "stilt roots", "nursery", "tropical coastline", "storm protection"],
+    "description": "Mangrove forests grow along tropical and subtropical coastlines where rivers meet the sea. These trees are adapted to salt water and low-oxygen mud, and many have tangled roots that stand above the water like stilts. The roots slow waves, trap mud and protect the coast from storms and erosion. Mangroves are nurseries for fish, crabs and shrimp, and their branches support birds and monkeys. They are cleared for farming and shrimp ponds, which is a major conservation concern."
+  },
+  {
+    "id": 21,
+    "title": "Hydrothermal Vent Ecosystems",
+    "category": "Ocean Habitats",
+    "keywords": ["hydrothermal vents", "hot vents", "chemosynthesis", "tube worms", "seafloor cracks", "superheated water", "bacteria"],
+    "description": "Hydrothermal vent ecosystems form around cracks in the seafloor where superheated water rich in minerals flows out. Because no sunlight reaches these depths, life here depends on chemosynthesis, where bacteria make food from chemicals such as hydrogen sulphide. These bacteria support giant tube worms, clams, shrimp and the yeti crab. Each vent field is like an oasis on the dark ocean floor. Vents were first discovered in 1977 and changed how scientists think about where life can exist."
+  },
+  {
+    "id": 22,
+    "title": "Deep Sea Ecosystems",
+    "category": "Ocean Habitats",
+    "keywords": ["deep sea", "marine snow", "high pressure", "dark cold water", "scavengers", "biodiversity", "deep sea mining"],
+    "description": "Deep sea ecosystems lie below the sunlit surface, in cold dark water under enormous pressure. Because no sunlight reaches them, most animals depend on marine snow, a slow shower of dead plankton and organic debris falling from above. Some creatures are scavengers, while others are predators with glowing lures. Biodiversity in the deep sea is surprisingly high and many species remain undiscovered. This habitat is difficult to study and is threatened by deep-sea mining and bottom trawling."
+  },
+  {
+    "id": 23,
+    "title": "Sunlight Zone",
+    "category": "Ocean Depths",
+    "keywords": ["sunlight zone", "epipelagic", "photosynthesis", "plankton", "top layer", "warm water", "ocean layers"],
+    "description": "The sunlight zone, or epipelagic zone, is the top layer of the ocean, from the surface down to about two hundred metres. It is the only zone with enough light for photosynthesis, so plant-like plankton live and grow here. These tiny algae produce a large share of Earth's oxygen and form the base of the ocean food chain. Almost all commercial fish live in this zone. It is the warmest layer and is constantly mixed by wind and waves."
+  },
+  {
+    "id": 24,
+    "title": "Twilight Zone",
+    "category": "Ocean Depths",
+    "keywords": ["twilight zone", "mesopelagic", "dim light", "daily migration", "lanternfish", "ocean layers", "faint blue light"],
+    "description": "The twilight zone, or mesopelagic zone, lies roughly between two hundred and one thousand metres deep. Only faint blue light reaches this layer, so photosynthesis is impossible, but some animals can still see. Many creatures here, such as lanternfish and hatchetfish, rise to the surface at night to feed and sink back at dawn in the largest daily migration on Earth. Others have large eyes and glowing lights to find food and confuse predators. The twilight zone holds huge numbers of fish."
+  },
+  {
+    "id": 25,
+    "title": "Midnight Zone",
+    "category": "Ocean Depths",
+    "keywords": ["midnight zone", "bathypelagic", "no sunlight", "ocean layers", "bioluminescence", "black water", "anglerfish"],
+    "description": "The midnight zone, or bathypelagic zone, is the layer of the ocean from about one thousand to four thousand metres deep. No sunlight reaches it at all, so the water is completely black and extremely cold. Animals here rely on bioluminescence to communicate, attract prey and escape predators. Food is scarce and arrives mostly as marine snow or dead animals falling from above. Creatures such as anglerfish, giant squid and gulper eels survive with large mouths and a very slow metabolism."
+  },
+  {
+    "id": 26,
+    "title": "Abyssal Zone",
+    "category": "Ocean Depths",
+    "keywords": ["abyssal zone", "abyssal plain", "no sunlight", "ocean layers", "deep seafloor", "high pressure", "sea cucumbers"],
+    "description": "The abyssal zone is the deep ocean layer between four thousand and six thousand metres down. It covers most of the seafloor, forming flat muddy plains in total darkness, near-freezing temperatures and crushing pressure. Food is extremely limited and comes mainly from sinking organic matter, which supports sea cucumbers, brittle stars, worms and slow-growing deep-sea corals. Because conditions are so stable, life in the abyssal zone grows slowly and recovers very slowly from damage such as trawling."
+  },
+  {
+    "id": 27,
+    "title": "Mariana Trench",
+    "category": "Underwater Wonders",
+    "keywords": ["mariana trench", "deepest place on earth", "challenger deep", "pacific ocean", "eleven thousand metres", "hadal zone", "extreme pressure"],
+    "description": "The Mariana Trench is the deepest place on Earth, located in the western Pacific Ocean east of the Mariana Islands. Its lowest point, called Challenger Deep, lies almost eleven thousand metres below the surface, deeper than Mount Everest is tall. The water there is freezing, completely dark and under immense pressure, yet scientists have found giant amoebas, snailfish and shrimp living in the trench. Only a few human dives and specialised robots have ever reached the bottom."
+  },
+  {
+    "id": 28,
+    "title": "Underwater Volcanoes",
+    "category": "Underwater Wonders",
+    "keywords": ["underwater volcanoes", "submarine volcano", "seafloor eruption", "volcanic island", "hawaii", "hydrothermal", "molten rock"],
+    "description": "Underwater volcanoes, also called submarine volcanoes, are openings in the seafloor where molten rock, gas and hot water erupt into the ocean. Most of Earth's volcanic activity actually happens beneath the sea. Over time, eruptions build up mountains that can rise above the surface as islands, such as Hawaii and Iceland. Around these volcanoes hot springs support hydrothermal vent communities. Eruptions are difficult to observe directly, but scientists can detect them by listening to the sounds the seafloor makes."
+  },
+  {
+    "id": 29,
+    "title": "Ocean Trenches",
+    "category": "Underwater Wonders",
+    "keywords": ["ocean trenches", "subduction", "tectonic plates", "hadal zone", "deep sea", "pacific ring of fire", "earthquakes"],
+    "description": "Ocean trenches are long, narrow, curved depressions in the seafloor that form where one tectonic plate slides beneath another in a process called subduction. They are the deepest parts of the ocean and make up the hadal zone, below six thousand metres. Trenches occur mostly around the edges of the Pacific Ocean, for example the Mariana Trench, the Tonga Trench and the Peru-Chile Trench. They host specialised life, help recycle crust material and are the source of many earthquakes and tsunamis."
+  },
+  {
+    "id": 30,
+    "title": "Seamounts",
+    "category": "Underwater Wonders",
+    "keywords": ["seamounts", "underwater mountains", "volcanic", "biodiversity hotspot", "upwelling", "deep sea corals", "extinct volcano"],
+    "description": "Seamounts are underwater mountains rising at least one thousand metres from the seafloor, most of them volcanic in origin. Many are extinct volcanoes, some are still active, and a few reach the surface as islands. Water rising around a seamount carries nutrients upward, feeding plankton and attracting fish, so seamounts are often biodiversity hotspots. They provide shelter and feeding grounds for sharks, tuna and deep-water corals. Seamounts are vulnerable to overfishing and destructive bottom trawling."
+  }
+]
